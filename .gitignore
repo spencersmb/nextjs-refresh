@@ -1,0 +1,5 @@
+#NodeDir
+*/node_modules
+.idea
+*/.idea
+*/.next
